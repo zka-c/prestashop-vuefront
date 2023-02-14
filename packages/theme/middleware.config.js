@@ -4,7 +4,7 @@ module.exports = {
       location: '@vue-storefront/prestashop-api/server',
       configuration: {
         api: {
-          url: 'http://http://120.77.213.116'
+          url: 'http://120.77.213.116'
         }
       }
     }
